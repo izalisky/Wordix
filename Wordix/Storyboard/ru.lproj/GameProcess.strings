@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Congratulations, the bonus \nlevel is open!"; ObjectID = "9TP-1v-eCC"; */
+"9TP-1v-eCC.text" = "Поздравляем, бонусый \nуровень открыт!";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "B68-eB-ETP"; */
+"B68-eB-ETP.text" = "18";
+
+/* Class = "UILabel"; text = "3 clicks left"; ObjectID = "DVv-Kf-ecj"; */
+"DVv-Kf-ecj.text" = "Осталось 3 клика";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "GUM-d2-8CK"; */
+"GUM-d2-8CK.text" = "20";
+
+/* Class = "UILabel"; text = "Your result"; ObjectID = "MAB-bo-Gkp"; */
+"MAB-bo-Gkp.text" = "Ваш результат";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Sak-ue-QbK"; */
+"Sak-ue-QbK.normalTitle" = "Дальше";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Td7-Oh-Q3u"; */
+"Td7-Oh-Q3u.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "UUa-lh-t9y"; */
+"UUa-lh-t9y.text" = "/";
+
+/* Class = "UILabel"; text = "Сhose correct words"; ObjectID = "XOu-II-Oiu"; */
+"XOu-II-Oiu.text" = "Выбери правильные слова";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "a5T-nR-t3v"; */
+"a5T-nR-t3v.text" = "20";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "c6s-wo-jKY"; */
+"c6s-wo-jKY.text" = "/";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "lOT-qk-dNy"; */
+"lOT-qk-dNy.text" = "18";

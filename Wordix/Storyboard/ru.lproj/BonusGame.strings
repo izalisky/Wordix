@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0fB-CE-LQ2"; */
+"0fB-CE-LQ2.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "I'm ready"; ObjectID = "HEo-IV-Tnu"; */
+"HEo-IV-Tnu.normalTitle" = "Я готов";
+
+/* Class = "UILabel"; text = "You need to guess over\n40% of the words to\ncomplete the level"; ObjectID = "Krd-0v-Wwy"; */
+"Krd-0v-Wwy.text" = "Вам нужно угадать \nболее 40% слов, \nчтобы пройти уровень";
+
+/* Class = "UILabel"; text = "Bonus level complete"; ObjectID = "Qc6-Tw-8zc"; */
+"Qc6-Tw-8zc.text" = "Бонусный уровень пройден";
+
+/* Class = "UILabel"; text = "Choose the right word"; ObjectID = "RE7-dH-Cgg"; */
+"RE7-dH-Cgg.text" = "Выберите правильный вариант";
+
+/* Class = "UILabel"; text = "Tap to word"; ObjectID = "Wl6-a1-cRn"; */
+"Wl6-a1-cRn.text" = "Нажмите на слово";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "dWK-gZ-DXC"; */
+"dWK-gZ-DXC.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "Try again"; ObjectID = "kMw-hF-YKx"; */
+"kMw-hF-YKx.text" = "Попробуй еще раз";

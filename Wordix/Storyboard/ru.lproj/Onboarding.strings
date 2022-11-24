@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Do you often write down so as not to forget?"; ObjectID = "4AX-8w-LTg"; */
+"4AX-8w-LTg.text" = "Вы часто записываете, чтобы не забыть?";
+
+/* Class = "UILabel"; text = "Hello! This is a very useful and\ninteresting game in front of you"; ObjectID = "8ti-29-UMh"; */
+"8ti-29-UMh.text" = "Здравствуйте! Перед вами очень\nполезная и интересная игра";
+
+/* Class = "UILabel"; text = "Is it impressive when someone remembers names, dates and titles?"; ObjectID = "9Q4-P9-bV6"; */
+"9Q4-P9-bV6.text" = "Это впечатляет, когда кто-то помнит имена, дату и название?";
+
+/* Class = "UILabel"; text = "Just choose any language in the settings"; ObjectID = "Hh8-Vd-7e8"; */
+"Hh8-Vd-7e8.text" = "Начните тренироваться прямо сейчас!";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "JVK-u6-2zo"; */
+"JVK-u6-2zo.normalTitle" = "Продолжить";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "PP0-at-9Bf"; */
+"PP0-at-9Bf.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "You can train your memory and learn a new language"; ObjectID = "XBE-mu-za7"; */
+"XBE-mu-za7.text" = "Вы можете тренировать свою память и выучить новые слова";
+
+/* Class = "UILabel"; text = "Play every day and no\nlonger need to write\nnotes!"; ObjectID = "liD-yc-cLv"; */
+"liD-yc-cLv.text" = "Играйте каждый день и\nбольше не нужно писать \nзаметки!";
+
+/* Class = "UILabel"; text = "Which will help improve memory and even learn a new language"; ObjectID = "vtv-cy-a2c"; */
+"vtv-cy-a2c.text" = "Которая поможет улучшить память и выучить новые слова";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "zUo-7q-pbD"; */
+"zUo-7q-pbD.normalTitle" = "Продолжить";

@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Then 2.90 $ per week"; ObjectID = "9Jq-WD-z2e"; */
+"9Jq-WD-z2e.text" = "";
+
+/* Class = "UILabel"; text = "Buy PRO"; ObjectID = "P65-Rf-RhA"; */
+"P65-Rf-RhA.text" = "Купить PRO";
+
+/* Class = "UIButton"; normalTitle = "Continue with PRO"; ObjectID = "Qd0-AV-oEh"; */
+"Qd0-AV-oEh.normalTitle" = "Продолжить с PRO";
+
+/* Class = "UILabel"; text = "Get unlimited access to tasks for every day. Boost your brain!"; ObjectID = "SGT-QY-xKS"; */
+"SGT-QY-xKS.text" = "Получите неограниченный доступ к задачам на каждый день. Развивайте свой мозг!";

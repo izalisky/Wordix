@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Wordix
+
+  Created by Ігор on 11/5/20.
+  Copyright © 2020 Igor Zalisky. All rights reserved.
+*/
+
+"Time has finished" = "Время закончилось";
+"Game paused" = "Игра приостановлена";
+"Run slideshow" = "Запустить слайд-шоу";
+"Close slideshow" = "Закрыть слайд-шоу";
+"Close" = "Закрыть";
+"Level" = "Уровень";
+"words" = "слова";
+"words2" = "слов";
+"%i word" = "%i слово";
+"%i words1" = "%i слова";
+"%i words2" = "%i слов";
+"%i click left" = "Осталось %i клик";  //1
+"%i clicks left1" = "Осталось %i клика";//2,3,4
+"%i clicks left2" = "Осталось %i кликов";//5,6,...
+"Cool result" = "Отличный результат";
+"Your result" = "Ваш результат";
+"Congratulations, the bonus\nlevel is open!" = "Поздравляем, бонусый\nуровень открыт!";
+"Try to memorize %i words or more to unlock the bonus level" = "Попробуйте запомнить %i слов или больше,\nчтобы разблокировать бонусный уровень";
+"Completed"="Завершена";
+"Opened"="Открыто";
+"No internet connection"="Отсутствует соединение с интернетом";
+"Retry"="Повторить";
+"per week"="/ неделя";
+"Subscribed successfully"="Подписка успешно оформлена";
+"Subscription restored"="Подписка восстановлена";
+"Guess %d/%d words"="Угадай %d/%d слов";
+"continue_pro" = "Продолжить с PRO аккаунтом";
+"tbc.." = "Скоро появятся новые уровни...";
+"tbc_lang" = "Скоро появятся новые языки...";
+"continue" = "Продолжить";
+"loading_text" = "Загрузка...";
+
+" Sign in with Apple" =  " Войти c Apple";
+"It is very important to save your brain trainings progress" = "Очень важно сохранить прогресс тренировок мозга";
+"Just sign in to the app using safest way without passwords" = "Просто войдите в приложение самым безопасным способом без паролей";

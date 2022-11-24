@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  Wordix
+
+  Created by Ігор on 11/5/20.
+  Copyright © 2020 Igor Zalisky. All rights reserved.
+*/
+
+"Time has finished" = "Time has finished";
+"Game paused" = "Game paused";
+"Run slideshow" = "Run slideshow";
+"Close slideshow" = "Close slideshow";
+"Close" = "Close";
+"Level" = "Level";
+"words" = "words";
+"words2" = "words";
+"%i word" = "%i word";
+"%i words1" = "%i words";
+"%i words2" = "%i words";
+"%i click left" = "%i click left"; //1
+"%i clicks left1" = "%i clicks left"; //2,3,4
+"%i clicks left2" = "%i clicks left"; //5,6,...
+"Cool result" = "Cool result";
+"Your result" = "Your result";
+"Congratulations, the bonus\nlevel is open!" = "Congratulations, the bonus\nlevel is open!";
+"Try to memorize %i words or more to unlock the bonus level" = "Try to memorize %i words or more to unlock the bonus level";
+"Completed"="Completed";
+"Opened"="Opened";
+"No internet connection"="No internet connection";
+"Retry"="Retry";
+"per week"="/ week";
+"Subscribed successfully"="Subscribed successfully";
+"Subscription restored"="Subscription restored";
+"Guess %d/%d words"="Guess %d/%d words";
+"continue_pro" = "Continue with PRO";
+"tbc.." = "New levels coming soon...";
+"tbc_lang" = "New languages coming soon...";
+"continue" = "Continue";
+"loading_text" = "Loading...";
+
+" Sign in with Apple" =  " Sign in with Apple";
+"It is very important to save your brain trainings progress" = "It is very important to save your brain trainings progress";
+"Just sign in to the app using safest way without passwords" = "Just sign in to the app using safest way without passwords";
+

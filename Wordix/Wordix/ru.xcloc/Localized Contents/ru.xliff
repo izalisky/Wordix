@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Wordix/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Wordix</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="Close slideshow" xml:space="preserve">
+        <source>Close slideshow</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="Game paused" xml:space="preserve">
+        <source>Game paused</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="Level" xml:space="preserve">
+        <source>Level</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="Run slideshow" xml:space="preserve">
+        <source>Run slideshow</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="Time has finished" xml:space="preserve">
+        <source>Time has finished</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+      <trans-unit id="words" xml:space="preserve">
+        <source>words</source>
+        <note>LOC_STR</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/BonusGame.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="0fB-CE-LQ2.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0fB-CE-LQ2";</note>
+      </trans-unit>
+      <trans-unit id="2Tz-N1-VWM.text" xml:space="preserve">
+        <source>Let's learn capital</source>
+        <target>Let's learn capital</target>
+        <note>Class = "UILabel"; text = "Let's learn capital"; ObjectID = "2Tz-N1-VWM";</note>
+      </trans-unit>
+      <trans-unit id="5No-dx-B8c.normalTitle" xml:space="preserve">
+        <source>Paris</source>
+        <target>Paris</target>
+        <note>Class = "UIButton"; normalTitle = "Paris"; ObjectID = "5No-dx-B8c";</note>
+      </trans-unit>
+      <trans-unit id="5sy-X7-PrI.normalTitle" xml:space="preserve">
+        <source>Paris</source>
+        <target>Paris</target>
+        <note>Class = "UIButton"; normalTitle = "Paris"; ObjectID = "5sy-X7-PrI";</note>
+      </trans-unit>
+      <trans-unit id="7c4-fc-0F7.text" xml:space="preserve">
+        <source>France</source>
+        <target>France</target>
+        <note>Class = "UILabel"; text = "France"; ObjectID = "7c4-fc-0F7";</note>
+      </trans-unit>
+      <trans-unit id="HEo-IV-Tnu.normalTitle" xml:space="preserve">
+        <source>I'm ready</source>
+        <target>I'm ready</target>
+        <note>Class = "UIButton"; normalTitle = "I'm ready"; ObjectID = "HEo-IV-Tnu";</note>
+      </trans-unit>
+      <trans-unit id="Krd-0v-Wwy.text" xml:space="preserve">
+        <source>You need to guess over
+40% of the words to
+complete the level</source>
+        <target>You need to guess over
+40% of the words to
+complete the level</target>
+        <note>Class = "UILabel"; text = "You need to guess over\n40% of the words to\ncomplete the level"; ObjectID = "Krd-0v-Wwy";</note>
+      </trans-unit>
+      <trans-unit id="Qc6-Tw-8zc.text" xml:space="preserve">
+        <source>Bonus level complete</source>
+        <target>Bonus level complete</target>
+        <note>Class = "UILabel"; text = "Bonus level complete"; ObjectID = "Qc6-Tw-8zc";</note>
+      </trans-unit>
+      <trans-unit id="RE7-dH-Cgg.text" xml:space="preserve">
+        <source>Choose the right word</source>
+        <target>Choose the right word</target>
+        <note>Class = "UILabel"; text = "Choose the right word"; ObjectID = "RE7-dH-Cgg";</note>
+      </trans-unit>
+      <trans-unit id="Wl6-a1-cRn.text" xml:space="preserve">
+        <source>Tap to word</source>
+        <target>Tap to word</target>
+        <note>Class = "UILabel"; text = "Tap to word"; ObjectID = "Wl6-a1-cRn";</note>
+      </trans-unit>
+      <trans-unit id="X8l-qb-99F.normalTitle" xml:space="preserve">
+        <source>Paris</source>
+        <target>Paris</target>
+        <note>Class = "UIButton"; normalTitle = "Paris"; ObjectID = "X8l-qb-99F";</note>
+      </trans-unit>
+      <trans-unit id="dWK-gZ-DXC.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "dWK-gZ-DXC";</note>
+      </trans-unit>
+      <trans-unit id="eMQ-cZ-1W0.text" xml:space="preserve">
+        <source>Let's learn capital</source>
+        <target>Let's learn capital</target>
+        <note>Class = "UILabel"; text = "Let's learn capital"; ObjectID = "eMQ-cZ-1W0";</note>
+      </trans-unit>
+      <trans-unit id="jX4-tL-TYx.text" xml:space="preserve">
+        <source>France</source>
+        <target>France</target>
+        <note>Class = "UILabel"; text = "France"; ObjectID = "jX4-tL-TYx";</note>
+      </trans-unit>
+      <trans-unit id="kMw-hF-YKx.text" xml:space="preserve">
+        <source>Try again</source>
+        <target>Try again</target>
+        <note>Class = "UILabel"; text = "Try again"; ObjectID = "kMw-hF-YKx";</note>
+      </trans-unit>
+      <trans-unit id="lKU-h1-H1a.text" xml:space="preserve">
+        <source>Watch the country and
+remember the city, at the 
+end you will find a quiz</source>
+        <target>Watch the country and
+remember the city, at the 
+end you will find a quiz</target>
+        <note>Class = "UILabel"; text = "Watch the country and\nremember the city, at the \nend you will find a quiz"; ObjectID = "lKU-h1-H1a";</note>
+      </trans-unit>
+      <trans-unit id="sf4-il-9qJ.normalTitle" xml:space="preserve">
+        <source>Paris</source>
+        <target>Paris</target>
+        <note>Class = "UIButton"; normalTitle = "Paris"; ObjectID = "sf4-il-9qJ";</note>
+      </trans-unit>
+      <trans-unit id="wtH-Kk-IG8.normalTitle" xml:space="preserve">
+        <source>Paris</source>
+        <target>Paris</target>
+        <note>Class = "UIButton"; normalTitle = "Paris"; ObjectID = "wtH-Kk-IG8";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/GamePreview.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="3Pr-Qg-sNf.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "3Pr-Qg-sNf";</note>
+      </trans-unit>
+      <trans-unit id="7x3-oo-Qih.text" xml:space="preserve">
+        <source>Ball</source>
+        <target>Ball</target>
+        <note>Class = "UILabel"; text = "Ball"; ObjectID = "7x3-oo-Qih";</note>
+      </trans-unit>
+      <trans-unit id="56L-MV-3ST.text" xml:space="preserve">
+        <source>Time has finished</source>
+        <target>Time has finished</target>
+        <note>Class = "UILabel"; text = "Time has finished"; ObjectID = "56L-MV-3ST";</note>
+      </trans-unit>
+      <trans-unit id="IFF-ik-Ocx.text" xml:space="preserve">
+        <source>3:00</source>
+        <target>3:00</target>
+        <note>Class = "UILabel"; text = "3:00"; ObjectID = "IFF-ik-Ocx";</note>
+      </trans-unit>
+      <trans-unit id="Z3b-BR-uy1.normalTitle" xml:space="preserve">
+        <source>Run slideshow</source>
+        <target>Run slideshow</target>
+        <note>Class = "UIButton"; normalTitle = "Run slideshow"; ObjectID = "Z3b-BR-uy1";</note>
+      </trans-unit>
+      <trans-unit id="eEx-oI-dBm.text" xml:space="preserve">
+        <source>With speech sound</source>
+        <target>With speech sound</target>
+        <note>Class = "UILabel"; text = "With speech sound"; ObjectID = "eEx-oI-dBm";</note>
+      </trans-unit>
+      <trans-unit id="fMA-wr-uSl.text" xml:space="preserve">
+        <source>1/20</source>
+        <target>1/20</target>
+        <note>Class = "UILabel"; text = "1/20"; ObjectID = "fMA-wr-uSl";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/GameProcess.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="9TP-1v-eCC.text" xml:space="preserve">
+        <source>Congratulations, the bonus 
+level is open!</source>
+        <target>Congratulations, the bonus 
+level is open!</target>
+        <note>Class = "UILabel"; text = "Congratulations, the bonus \nlevel is open!"; ObjectID = "9TP-1v-eCC";</note>
+      </trans-unit>
+      <trans-unit id="B68-eB-ETP.text" xml:space="preserve">
+        <source>18</source>
+        <target>18</target>
+        <note>Class = "UILabel"; text = "18"; ObjectID = "B68-eB-ETP";</note>
+      </trans-unit>
+      <trans-unit id="DVv-Kf-ecj.text" xml:space="preserve">
+        <source>3 clicks left</source>
+        <target>3 clicks left</target>
+        <note>Class = "UILabel"; text = "3 clicks left"; ObjectID = "DVv-Kf-ecj";</note>
+      </trans-unit>
+      <trans-unit id="GUM-d2-8CK.text" xml:space="preserve">
+        <source>20</source>
+        <target>20</target>
+        <note>Class = "UILabel"; text = "20"; ObjectID = "GUM-d2-8CK";</note>
+      </trans-unit>
+      <trans-unit id="MAB-bo-Gkp.text" xml:space="preserve">
+        <source>Your result</source>
+        <target>Your result</target>
+        <note>Class = "UILabel"; text = "Your result"; ObjectID = "MAB-bo-Gkp";</note>
+      </trans-unit>
+      <trans-unit id="Sak-ue-QbK.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Sak-ue-QbK";</note>
+      </trans-unit>
+      <trans-unit id="Td7-Oh-Q3u.normalTitle" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "Td7-Oh-Q3u";</note>
+      </trans-unit>
+      <trans-unit id="UUa-lh-t9y.text" xml:space="preserve">
+        <source>/</source>
+        <target>/</target>
+        <note>Class = "UILabel"; text = "/"; ObjectID = "UUa-lh-t9y";</note>
+      </trans-unit>
+      <trans-unit id="XOu-II-Oiu.text" xml:space="preserve">
+        <source>Сhose correct words</source>
+        <target>Сhose correct words</target>
+        <note>Class = "UILabel"; text = "Сhose correct words"; ObjectID = "XOu-II-Oiu";</note>
+      </trans-unit>
+      <trans-unit id="a5T-nR-t3v.text" xml:space="preserve">
+        <source>20</source>
+        <target>20</target>
+        <note>Class = "UILabel"; text = "20"; ObjectID = "a5T-nR-t3v";</note>
+      </trans-unit>
+      <trans-unit id="c6s-wo-jKY.text" xml:space="preserve">
+        <source>/</source>
+        <target>/</target>
+        <note>Class = "UILabel"; text = "/"; ObjectID = "c6s-wo-jKY";</note>
+      </trans-unit>
+      <trans-unit id="lOT-qk-dNy.text" xml:space="preserve">
+        <source>18</source>
+        <target>18</target>
+        <note>Class = "UILabel"; text = "18"; ObjectID = "lOT-qk-dNy";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/Language.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="8SP-Zk-KGg.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "8SP-Zk-KGg";</note>
+      </trans-unit>
+      <trans-unit id="DFS-99-pER.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "DFS-99-pER";</note>
+      </trans-unit>
+      <trans-unit id="I6O-r7-b54.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "I6O-r7-b54";</note>
+      </trans-unit>
+      <trans-unit id="KCW-24-YG4.text" xml:space="preserve">
+        <source>Choose a language for
+words in the game</source>
+        <target>Choose a language for
+words in the game</target>
+        <note>Class = "UILabel"; text = "Choose a language for\nwords in the game"; ObjectID = "KCW-24-YG4";</note>
+      </trans-unit>
+      <trans-unit id="NUV-Sa-kFu.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "NUV-Sa-kFu";</note>
+      </trans-unit>
+      <trans-unit id="OGd-IY-wIg.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "OGd-IY-wIg";</note>
+      </trans-unit>
+      <trans-unit id="eUJ-MQ-n4A.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "eUJ-MQ-n4A";</note>
+      </trans-unit>
+      <trans-unit id="pNS-ct-see.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "pNS-ct-see";</note>
+      </trans-unit>
+      <trans-unit id="qLO-bO-Dc1.normalTitle" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "qLO-bO-Dc1";</note>
+      </trans-unit>
+      <trans-unit id="w5Y-gV-yg0.normalTitle" xml:space="preserve">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UIButton"; normalTitle = "Russian"; ObjectID = "w5Y-gV-yg0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/Main.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Cm4-Sw-uCG.text" xml:space="preserve">
+        <source>Level 1</source>
+        <target>Level 1</target>
+        <note>Class = "UILabel"; text = "Level 1"; ObjectID = "Cm4-Sw-uCG";</note>
+      </trans-unit>
+      <trans-unit id="JZb-Z9-gLM.text" xml:space="preserve">
+        <source>20 words</source>
+        <target>20 words</target>
+        <note>Class = "UILabel"; text = "20 words"; ObjectID = "JZb-Z9-gLM";</note>
+      </trans-unit>
+      <trans-unit id="PhE-Lx-T5O.text" xml:space="preserve">
+        <source>You remembered</source>
+        <target>You remembered</target>
+        <note>Class = "UILabel"; text = "You remembered"; ObjectID = "PhE-Lx-T5O";</note>
+      </trans-unit>
+      <trans-unit id="T9K-Ee-3ZG.text" xml:space="preserve">
+        <source>20 words</source>
+        <target>20 words</target>
+        <note>Class = "UILabel"; text = "20 words"; ObjectID = "T9K-Ee-3ZG";</note>
+      </trans-unit>
+      <trans-unit id="VWp-Cf-BIH.normalTitle" xml:space="preserve">
+        <source>Start</source>
+        <target>Start</target>
+        <note>Class = "UIButton"; normalTitle = "Start"; ObjectID = "VWp-Cf-BIH";</note>
+      </trans-unit>
+      <trans-unit id="YV2-dK-EGy.text" xml:space="preserve">
+        <source>Level 1</source>
+        <target>Level 1</target>
+        <note>Class = "UILabel"; text = "Level 1"; ObjectID = "YV2-dK-EGy";</note>
+      </trans-unit>
+      <trans-unit id="ZAq-0g-H7R.normalTitle" xml:space="preserve">
+        <source>Bonus game</source>
+        <target>Bonus game</target>
+        <note>Class = "UIButton"; normalTitle = "Bonus game"; ObjectID = "ZAq-0g-H7R";</note>
+      </trans-unit>
+      <trans-unit id="bfR-Ud-U4z.text" xml:space="preserve">
+        <source>20 words</source>
+        <target>20 words</target>
+        <note>Class = "UILabel"; text = "20 words"; ObjectID = "bfR-Ud-U4z";</note>
+      </trans-unit>
+      <trans-unit id="c6i-Mw-1Qs.text" xml:space="preserve">
+        <source>Are you ready to start?</source>
+        <target>Are you ready to start?</target>
+        <note>Class = "UILabel"; text = "Are you ready to start?"; ObjectID = "c6i-Mw-1Qs";</note>
+      </trans-unit>
+      <trans-unit id="czU-kr-pcR.text" xml:space="preserve">
+        <source>Level 1</source>
+        <target>Level 1</target>
+        <note>Class = "UILabel"; text = "Level 1"; ObjectID = "czU-kr-pcR";</note>
+      </trans-unit>
+      <trans-unit id="hSR-Rs-vcr.text" xml:space="preserve">
+        <source>20 words</source>
+        <target>20 words</target>
+        <note>Class = "UILabel"; text = "20 words"; ObjectID = "hSR-Rs-vcr";</note>
+      </trans-unit>
+      <trans-unit id="kov-3s-rBh.text" xml:space="preserve">
+        <source>Level 1</source>
+        <target>Level 1</target>
+        <note>Class = "UILabel"; text = "Level 1"; ObjectID = "kov-3s-rBh";</note>
+      </trans-unit>
+      <trans-unit id="kr4-of-ajp.text" xml:space="preserve">
+        <source>Bonus game</source>
+        <target>Bonus game</target>
+        <note>Class = "UILabel"; text = "Bonus game"; ObjectID = "kr4-of-ajp";</note>
+      </trans-unit>
+      <trans-unit id="l91-Ss-dxA.text" xml:space="preserve">
+        <source>Guess 15/20 words</source>
+        <target>Guess 15/20 words</target>
+        <note>Class = "UILabel"; text = "Guess 15/20 words"; ObjectID = "l91-Ss-dxA";</note>
+      </trans-unit>
+      <trans-unit id="wEE-IL-rsk.text" xml:space="preserve">
+        <source>17/20 words</source>
+        <target>17/20 words</target>
+        <note>Class = "UILabel"; text = "17/20 words"; ObjectID = "wEE-IL-rsk";</note>
+      </trans-unit>
+      <trans-unit id="wvW-nJ-Aia.text" xml:space="preserve">
+        <source>Opened</source>
+        <target>Opened</target>
+        <note>Class = "UILabel"; text = "Opened"; ObjectID = "wvW-nJ-Aia";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/Onboarding.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="4AX-8w-LTg.text" xml:space="preserve">
+        <source>Do you often write down so as not to forget?</source>
+        <target>Do you often write down so as not to forget?</target>
+        <note>Class = "UILabel"; text = "Do you often write down so as not to forget?"; ObjectID = "4AX-8w-LTg";</note>
+      </trans-unit>
+      <trans-unit id="8ti-29-UMh.text" xml:space="preserve">
+        <source>Hello! This is a very useful and
+interesting game in front of you</source>
+        <target>Hello! This is a very useful and
+interesting game in front of you</target>
+        <note>Class = "UILabel"; text = "Hello! This is a very useful and\ninteresting game in front of you"; ObjectID = "8ti-29-UMh";</note>
+      </trans-unit>
+      <trans-unit id="9Q4-P9-bV6.text" xml:space="preserve">
+        <source>Is it impressive when someone remembers names, dates and titles?</source>
+        <target>Is it impressive when someone remembers names, dates and titles?</target>
+        <note>Class = "UILabel"; text = "Is it impressive when someone remembers names, dates and titles?"; ObjectID = "9Q4-P9-bV6";</note>
+      </trans-unit>
+      <trans-unit id="Hh8-Vd-7e8.text" xml:space="preserve">
+        <source>Just choose any language in the settings</source>
+        <target>Just choose any language in the settings</target>
+        <note>Class = "UILabel"; text = "Just choose any language in the settings"; ObjectID = "Hh8-Vd-7e8";</note>
+      </trans-unit>
+      <trans-unit id="JVK-u6-2zo.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "JVK-u6-2zo";</note>
+      </trans-unit>
+      <trans-unit id="PP0-at-9Bf.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "PP0-at-9Bf";</note>
+      </trans-unit>
+      <trans-unit id="XBE-mu-za7.text" xml:space="preserve">
+        <source>You can train your memory and learn a new language</source>
+        <target>You can train your memory and learn a new language</target>
+        <note>Class = "UILabel"; text = "You can train your memory and learn a new language"; ObjectID = "XBE-mu-za7";</note>
+      </trans-unit>
+      <trans-unit id="liD-yc-cLv.text" xml:space="preserve">
+        <source>Play every day and no
+longer need to write
+notes!</source>
+        <target>Play every day and no
+longer need to write
+notes!</target>
+        <note>Class = "UILabel"; text = "Play every day and no\nlonger need to write\nnotes!"; ObjectID = "liD-yc-cLv";</note>
+      </trans-unit>
+      <trans-unit id="vtv-cy-a2c.text" xml:space="preserve">
+        <source>Which will help improve memory and even learn a new language</source>
+        <target>Which will help improve memory and even learn a new language</target>
+        <note>Class = "UILabel"; text = "Which will help improve memory and even learn a new language"; ObjectID = "vtv-cy-a2c";</note>
+      </trans-unit>
+      <trans-unit id="zUo-7q-pbD.normalTitle" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "zUo-7q-pbD";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/Statistic.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="5OW-WI-VpB.text" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "5OW-WI-VpB";</note>
+      </trans-unit>
+      <trans-unit id="6In-yg-poF.text" xml:space="preserve">
+        <source>Most words</source>
+        <target>Most words</target>
+        <note>Class = "UILabel"; text = "Most words"; ObjectID = "6In-yg-poF";</note>
+      </trans-unit>
+      <trans-unit id="7HU-7r-alK.text" xml:space="preserve">
+        <source>Words per week</source>
+        <target>Words per week</target>
+        <note>Class = "UILabel"; text = "Words per week"; ObjectID = "7HU-7r-alK";</note>
+      </trans-unit>
+      <trans-unit id="9Df-Sx-0JV.text" xml:space="preserve">
+        <source>Statistic</source>
+        <target>Statistic</target>
+        <note>Class = "UILabel"; text = "Statistic"; ObjectID = "9Df-Sx-0JV";</note>
+      </trans-unit>
+      <trans-unit id="Jga-Qh-Ho8.text" xml:space="preserve">
+        <source>Average words %</source>
+        <target>Average words %</target>
+        <note>Class = "UILabel"; text = "Average words %"; ObjectID = "Jga-Qh-Ho8";</note>
+      </trans-unit>
+      <trans-unit id="RuA-q5-jPa.text" xml:space="preserve">
+        <source>9</source>
+        <target>9</target>
+        <note>Class = "UILabel"; text = "9"; ObjectID = "RuA-q5-jPa";</note>
+      </trans-unit>
+      <trans-unit id="f5f-XC-jDL.text" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "f5f-XC-jDL";</note>
+      </trans-unit>
+      <trans-unit id="rVc-8h-ltM.text" xml:space="preserve">
+        <source>0 words</source>
+        <target>0 words</target>
+        <note>Class = "UILabel"; text = "0 words"; ObjectID = "rVc-8h-ltM";</note>
+      </trans-unit>
+      <trans-unit id="uJt-Cd-z7u.text" xml:space="preserve">
+        <source>You already remembered</source>
+        <target>You already remembered</target>
+        <note>Class = "UILabel"; text = "You already remembered"; ObjectID = "uJt-Cd-z7u";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Wordix/Storyboard/Base.lproj/Subscription.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="9Jq-WD-z2e.text" xml:space="preserve">
+        <source>Then 2.90 $ per week</source>
+        <target>Then 2.90 $ per week</target>
+        <note>Class = "UILabel"; text = "Then 2.90 $ per week"; ObjectID = "9Jq-WD-z2e";</note>
+      </trans-unit>
+      <trans-unit id="9TX-s5-SPi.text" xml:space="preserve">
+        <source>Try 3 days FREE</source>
+        <target>Try 3 days FREE</target>
+        <note>Class = "UILabel"; text = "Try 3 days FREE"; ObjectID = "9TX-s5-SPi";</note>
+      </trans-unit>
+      <trans-unit id="P65-Rf-RhA.text" xml:space="preserve">
+        <source>Buy PRO</source>
+        <target>Buy PRO</target>
+        <note>Class = "UILabel"; text = "Buy PRO"; ObjectID = "P65-Rf-RhA";</note>
+      </trans-unit>
+      <trans-unit id="Qd0-AV-oEh.normalTitle" xml:space="preserve">
+        <source>Continue with PRO</source>
+        <target>Continue with PRO</target>
+        <note>Class = "UIButton"; normalTitle = "Continue with PRO"; ObjectID = "Qd0-AV-oEh";</note>
+      </trans-unit>
+      <trans-unit id="SGT-QY-xKS.text" xml:space="preserve">
+        <source>Get unlimited access to tasks for every day. Boost your brain!</source>
+        <target>Get unlimited access to tasks for every day. Boost your brain!</target>
+        <note>Class = "UILabel"; text = "Get unlimited access to tasks for every day. Boost your brain!"; ObjectID = "SGT-QY-xKS";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

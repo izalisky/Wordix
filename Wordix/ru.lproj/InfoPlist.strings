@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MathBrainApp
+
+  Created by Roman Resenchuk on 26.04.2020.
+  Copyright © 2020 Roman Resenchuk. All rights reserved.
+*/
+"CFBundleDisplayName" = "Вордикс";
+"NSUserTrackingUsageDescription" = "Трэкинг нужен для аналитики установок приложения из AppStore";

@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "3Pr-Qg-sNf"; */
+"3Pr-Qg-sNf.normalTitle" = "Дальше";
+
+/* Class = "UILabel"; text = "Time has finished"; ObjectID = "56L-MV-3ST"; */
+"56L-MV-3ST.text" = "Время закончилось";
+
+/* Class = "UILabel"; text = "Ball"; ObjectID = "7x3-oo-Qih"; */
+"7x3-oo-Qih.text" = "Мяч";
+
+/* Class = "UILabel"; text = "3:00"; ObjectID = "IFF-ik-Ocx"; */
+"IFF-ik-Ocx.text" = "3:00";
+
+/* Class = "UIButton"; normalTitle = "Run slideshow"; ObjectID = "Z3b-BR-uy1"; */
+"Z3b-BR-uy1.normalTitle" = "Запустить слайд-шоу";
+
+/* Class = "UILabel"; text = "With speech sound"; ObjectID = "eEx-oI-dBm"; */
+"eEx-oI-dBm.text" = "Произношение";
+
+/* Class = "UILabel"; text = "1/20"; ObjectID = "fMA-wr-uSl"; */
+"fMA-wr-uSl.text" = "1/20";

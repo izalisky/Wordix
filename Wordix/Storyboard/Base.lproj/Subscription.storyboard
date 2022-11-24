@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Gilroy-Bold.ttf">
+            <string>Gilroy-Bold</string>
+        </array>
+        <array key="Gilroy-Medium.ttf">
+            <string>Gilroy-Medium</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Subscription View Controller-->
+        <scene sceneID="3ws-ub-zTM">
+            <objects>
+                <viewController storyboardIdentifier="subscription" id="8xR-qx-1qx" customClass="SubscriptionViewController" customModule="Wordix" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="aqM-dG-2dL">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" tag="321" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Ed5-k7-Ib5">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_full" translatesAutoresizingMaskIntoConstraints="NO" id="auR-HI-uig">
+                                <rect key="frame" x="99" y="100" width="213" height="35.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="auR-HI-uig" secondAttribute="height" multiplier="71:12" constant="1" id="keq-oW-kDL"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Buy PRO" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="P65-Rf-RhA">
+                                <rect key="frame" x="138" y="171.5" width="138" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="P65-Rf-RhA" secondAttribute="height" multiplier="69:25" id="pjQ-Nh-ZcO"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Gilroy-Bold" family="Gilroy" pointSize="35"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Get unlimited access to tasks for every day. Boost your brain!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="SGT-QY-xKS">
+                                <rect key="frame" x="87" y="239" width="240" height="79"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="SGT-QY-xKS" secondAttribute="height" multiplier="240:79" id="11I-Yf-Ijc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Gilroy-Bold" family="Gilroy" pointSize="28"/>
+                                <color key="textColor" white="1" alpha="0.50390625" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="9Jq-WD-z2e">
+                                <rect key="frame" x="205" y="680" width="4.5" height="21.5"/>
+                                <fontDescription key="fontDescription" name="Gilroy-Medium" family="Gilroy" pointSize="18"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8nd-Kq-mXr">
+                                <rect key="frame" x="79.5" y="375.5" width="255" height="255"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="round_1" translatesAutoresizingMaskIntoConstraints="NO" id="Yr2-fe-e8W">
+                                        <rect key="frame" x="0.0" y="0.0" width="255" height="255"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="train_main" translatesAutoresizingMaskIntoConstraints="NO" id="6e5-O8-YgN">
+                                        <rect key="frame" x="-44.5" y="0.0" width="290.5" height="242"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="6e5-O8-YgN" secondAttribute="height" multiplier="263:219" id="6Y0-Ln-8MI"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="Yr2-fe-e8W" secondAttribute="trailing" id="FQ1-8d-fVo"/>
+                                    <constraint firstAttribute="bottom" secondItem="Yr2-fe-e8W" secondAttribute="bottom" id="Kog-5d-cLk"/>
+                                    <constraint firstItem="Yr2-fe-e8W" firstAttribute="top" secondItem="8nd-Kq-mXr" secondAttribute="top" id="Rew-07-abm"/>
+                                    <constraint firstItem="6e5-O8-YgN" firstAttribute="centerY" secondItem="8nd-Kq-mXr" secondAttribute="centerY" multiplier="0.95" id="cay-dk-NKz"/>
+                                    <constraint firstItem="Yr2-fe-e8W" firstAttribute="leading" secondItem="8nd-Kq-mXr" secondAttribute="leading" id="err-zp-H2Z"/>
+                                    <constraint firstAttribute="width" secondItem="8nd-Kq-mXr" secondAttribute="height" multiplier="1:1" id="fLZ-Rz-ueu"/>
+                                    <constraint firstItem="6e5-O8-YgN" firstAttribute="centerX" secondItem="8nd-Kq-mXr" secondAttribute="centerX" multiplier="0.79" id="kWK-x7-J9K"/>
+                                    <constraint firstItem="6e5-O8-YgN" firstAttribute="width" secondItem="8nd-Kq-mXr" secondAttribute="width" multiplier="1.1385" id="uTs-Hf-8Je"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qd0-AV-oEh">
+                                <rect key="frame" x="91" y="730" width="232" height="78"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Qd0-AV-oEh" secondAttribute="height" multiplier="283:78" constant="-51" id="QDK-oI-Wfl"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Gilroy-Medium" family="Gilroy" pointSize="20"/>
+                                <state key="normal" title="Continue with PRO" backgroundImage="btn_green"/>
+                                <connections>
+                                    <action selector="subscribeAction" destination="8xR-qx-1qx" eventType="touchUpInside" id="9Lq-Pk-WOW"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mwj-QZ-BHV">
+                                <rect key="frame" x="14" y="45" width="32" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="32" id="FZj-Ex-6fP"/>
+                                    <constraint firstAttribute="height" constant="22" id="hwK-Js-faj"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="10" minY="5" maxX="11" maxY="5"/>
+                                <state key="normal" image="close_btn"/>
+                                <connections>
+                                    <action selector="closeAction" destination="8xR-qx-1qx" eventType="touchUpInside" id="MWd-GP-nS9"/>
+                                </connections>
+                            </button>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="top" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="A8u-V7-13O">
+                                <rect key="frame" x="20" y="834" width="374" height="28"/>
+                                <subviews>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vDP-a1-oAm">
+                                        <rect key="frame" x="0.0" y="0.0" width="122" height="28"/>
+                                        <fontDescription key="fontDescription" name="Gilroy-Bold" family="Gilroy" pointSize="13"/>
+                                        <state key="normal" title="TERMS OF USE"/>
+                                        <connections>
+                                            <action selector="openUrlWithBtn:" destination="8xR-qx-1qx" eventType="touchUpInside" id="cVG-nm-6bJ"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C6B-fS-3vt">
+                                        <rect key="frame" x="126" y="0.0" width="122" height="28"/>
+                                        <fontDescription key="fontDescription" name="Gilroy-Bold" family="Gilroy" pointSize="13"/>
+                                        <state key="normal" title="PRIVACY POLICY"/>
+                                        <connections>
+                                            <action selector="openUrlWithBtn:" destination="8xR-qx-1qx" eventType="touchUpInside" id="XJE-Fd-8r6"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Z0-oE-QsR">
+                                        <rect key="frame" x="252" y="0.0" width="122" height="28"/>
+                                        <fontDescription key="fontDescription" name="Gilroy-Bold" family="Gilroy" pointSize="13"/>
+                                        <state key="normal" title="RESTORE"/>
+                                        <connections>
+                                            <action selector="restore" destination="8xR-qx-1qx" eventType="touchUpInside" id="BF3-Fr-qHj"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="VVk-xY-aMN">
+                                <rect key="frame" x="188.5" y="750.5" width="37" height="37"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="mke-rf-1Nh"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="auR-HI-uig" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="0.26" id="1xQ-hr-Pxb"/>
+                            <constraint firstItem="SGT-QY-xKS" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="5a7-3R-dZW"/>
+                            <constraint firstItem="auR-HI-uig" firstAttribute="width" secondItem="aqM-dG-2dL" secondAttribute="width" multiplier="0.515" id="6gx-Uh-fEX"/>
+                            <constraint firstItem="Qd0-AV-oEh" firstAttribute="width" secondItem="aqM-dG-2dL" secondAttribute="width" multiplier="0.683575" constant="-51.000050000000044" id="8Bm-r3-MB3"/>
+                            <constraint firstItem="Ed5-k7-Ib5" firstAttribute="leading" secondItem="mke-rf-1Nh" secondAttribute="leading" id="A1Y-PX-1zH"/>
+                            <constraint firstItem="SGT-QY-xKS" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="0.615" id="C7H-h6-tcw"/>
+                            <constraint firstItem="mke-rf-1Nh" firstAttribute="trailing" secondItem="A8u-V7-13O" secondAttribute="trailing" constant="20" id="D8a-kU-zWd"/>
+                            <constraint firstItem="P65-Rf-RhA" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="0.434" id="KN5-Sc-8q0"/>
+                            <constraint firstItem="auR-HI-uig" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" multiplier="0.993" id="OeK-TO-vhH"/>
+                            <constraint firstItem="A8u-V7-13O" firstAttribute="bottom" secondItem="mke-rf-1Nh" secondAttribute="bottom" id="T1N-ID-c5M"/>
+                            <constraint firstItem="Mwj-QZ-BHV" firstAttribute="leading" secondItem="mke-rf-1Nh" secondAttribute="leading" constant="14" id="UG7-14-n53"/>
+                            <constraint firstItem="8nd-Kq-mXr" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="XK7-wA-Nbr"/>
+                            <constraint firstItem="Ed5-k7-Ib5" firstAttribute="top" secondItem="aqM-dG-2dL" secondAttribute="top" id="avz-qi-cdg"/>
+                            <constraint firstItem="Ed5-k7-Ib5" firstAttribute="bottom" secondItem="aqM-dG-2dL" secondAttribute="bottom" id="bNs-E9-b9K"/>
+                            <constraint firstItem="A8u-V7-13O" firstAttribute="leading" secondItem="mke-rf-1Nh" secondAttribute="leading" constant="20" id="ddb-Gj-hMk"/>
+                            <constraint firstItem="9Jq-WD-z2e" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="1.57" constant="-20.460000000000036" id="dk1-7e-3jM"/>
+                            <constraint firstItem="Ed5-k7-Ib5" firstAttribute="trailing" secondItem="mke-rf-1Nh" secondAttribute="trailing" id="drL-d5-amv"/>
+                            <constraint firstItem="P65-Rf-RhA" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="fr5-e4-ol1"/>
+                            <constraint firstItem="Mwj-QZ-BHV" firstAttribute="top" secondItem="mke-rf-1Nh" secondAttribute="top" constant="1" id="fsN-jN-xBi"/>
+                            <constraint firstItem="VVk-xY-aMN" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="g8v-P2-0Lb"/>
+                            <constraint firstItem="P65-Rf-RhA" firstAttribute="width" secondItem="aqM-dG-2dL" secondAttribute="width" multiplier="0.333333" id="gUd-ac-Qfd"/>
+                            <constraint firstItem="VVk-xY-aMN" firstAttribute="centerY" secondItem="Qd0-AV-oEh" secondAttribute="centerY" id="h6W-it-7AO"/>
+                            <constraint firstItem="Qd0-AV-oEh" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="1.72" constant="-10" id="hWa-ZQ-ud6"/>
+                            <constraint firstItem="Qd0-AV-oEh" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="jwb-Jz-Cdc"/>
+                            <constraint firstItem="SGT-QY-xKS" firstAttribute="width" secondItem="aqM-dG-2dL" secondAttribute="width" multiplier="0.57971" id="ooB-9E-L5q"/>
+                            <constraint firstItem="8nd-Kq-mXr" firstAttribute="centerY" secondItem="mke-rf-1Nh" secondAttribute="centerY" multiplier="1.11" id="sQc-5u-OXr"/>
+                            <constraint firstItem="8nd-Kq-mXr" firstAttribute="width" secondItem="aqM-dG-2dL" secondAttribute="width" multiplier="0.615942" id="uMl-69-Pdx"/>
+                            <constraint firstItem="9Jq-WD-z2e" firstAttribute="centerX" secondItem="mke-rf-1Nh" secondAttribute="centerX" id="yxU-2u-VyG"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="7eZ-XC-cdW"/>
+                    <connections>
+                        <outlet property="indicator" destination="VVk-xY-aMN" id="hR3-5v-WYS"/>
+                        <outlet property="priceLabel" destination="9Jq-WD-z2e" id="9KN-rJ-7tG"/>
+                        <outlet property="subscribeBtn" destination="Qd0-AV-oEh" id="Qll-qI-q5y"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="h47-iM-pR9" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3500.0000000000005" y="92.410714285714278"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="btn_green" width="210" height="70"/>
+        <image name="close_btn" width="19" height="19"/>
+        <image name="logo_full" width="192.5" height="32"/>
+        <image name="round_1" width="231" height="231"/>
+        <image name="train_main" width="263" height="219"/>
+    </resources>
+</document>

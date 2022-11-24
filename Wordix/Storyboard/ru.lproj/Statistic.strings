@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5OW-WI-VpB"; */
+"5OW-WI-VpB.text" = "0";
+
+/* Class = "UILabel"; text = "Most words"; ObjectID = "6In-yg-poF"; */
+"6In-yg-poF.text" = "Лучший\nрезультат %";
+
+/* Class = "UILabel"; text = "Words per week"; ObjectID = "7HU-7r-alK"; */
+"7HU-7r-alK.text" = "Слов в неделю";
+
+/* Class = "UILabel"; text = "Statistic"; ObjectID = "9Df-Sx-0JV"; */
+"9Df-Sx-0JV.text" = "Статистика";
+
+/* Class = "UILabel"; text = "Average words %"; ObjectID = "Jga-Qh-Ho8"; */
+"Jga-Qh-Ho8.text" = "Средний\nрезультат %";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "RuA-q5-jPa"; */
+"RuA-q5-jPa.text" = "9";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "f5f-XC-jDL"; */
+"f5f-XC-jDL.text" = "0";
+
+/* Class = "UILabel"; text = "0 words"; ObjectID = "rVc-8h-ltM"; */
+"rVc-8h-ltM.text" = "0 слов";
+
+/* Class = "UILabel"; text = "You already remembered"; ObjectID = "uJt-Cd-z7u"; */
+"uJt-Cd-z7u.text" = "Вы уже запомнили";

@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "Cm4-Sw-uCG"; */
+"Cm4-Sw-uCG.text" = "Уровень 1";
+
+/* Class = "UILabel"; text = "20 words"; ObjectID = "JZb-Z9-gLM"; */
+"JZb-Z9-gLM.text" = "20 слов";
+
+/* Class = "UILabel"; text = "You remembered"; ObjectID = "PhE-Lx-T5O"; */
+"PhE-Lx-T5O.text" = "Ты запомнил";
+
+/* Class = "UILabel"; text = "20 words"; ObjectID = "T9K-Ee-3ZG"; */
+"T9K-Ee-3ZG.text" = "20 слов";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "VWp-Cf-BIH"; */
+"VWp-Cf-BIH.normalTitle" = "Старт";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "YV2-dK-EGy"; */
+"YV2-dK-EGy.text" = "Уровень 1";
+
+/* Class = "UIButton"; normalTitle = "Bonus game"; ObjectID = "ZAq-0g-H7R"; */
+"ZAq-0g-H7R.normalTitle" = "Бонусная игра";
+
+/* Class = "UILabel"; text = "20 words"; ObjectID = "bfR-Ud-U4z"; */
+"bfR-Ud-U4z.text" = "20 слов";
+
+/* Class = "UILabel"; text = "Are you ready to start?"; ObjectID = "c6i-Mw-1Qs"; */
+"c6i-Mw-1Qs.text" = "Вы готовы начать?";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "czU-kr-pcR"; */
+"czU-kr-pcR.text" = "Уровень 1";
+
+/* Class = "UILabel"; text = "20 words"; ObjectID = "hSR-Rs-vcr"; */
+"hSR-Rs-vcr.text" = "20 слов";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "kov-3s-rBh"; */
+"kov-3s-rBh.text" = "Уровень 1";
+
+/* Class = "UILabel"; text = "Bonus game"; ObjectID = "kr4-of-ajp"; */
+"kr4-of-ajp.text" = "Бонусная игра";
+
+/* Class = "UILabel"; text = "Guess 15/20 words"; ObjectID = "l91-Ss-dxA"; */
+"l91-Ss-dxA.text" = "Угадай 15/20 слов";
+
+/* Class = "UILabel"; text = "17/20 words"; ObjectID = "wEE-IL-rsk"; */
+"wEE-IL-rsk.text" = "17/20 слов";
+
+/* Class = "UILabel"; text = "Opened"; ObjectID = "wvW-nJ-Aia"; */
+"wvW-nJ-Aia.text" = "Открыто";
