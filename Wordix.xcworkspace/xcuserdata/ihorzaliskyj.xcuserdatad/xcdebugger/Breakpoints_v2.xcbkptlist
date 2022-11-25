@@ -66,22 +66,38 @@
             endingLineNumber = "85"
             landmarkName = "parseUser(snapshot:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8C3B02BF-3F87-4AF8-A920-F05A5B09A2E2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Wordix/ViewModel/GameResultViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "saveProgress()"
-            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7956BBE0-CDF4-47C8-AC64-3DCB3FF20314 - 5d011d718b54f503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordix.LevelsTableViewModel.parseUser(snapshot: __C.FIRDataSnapshot) -&gt; ()"
+                  moduleName = "Wordix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ihorzaliskyj/Documents/GitHub/Wordix/Wordix/ViewModel/LevelsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "7956BBE0-CDF4-47C8-AC64-3DCB3FF20314 - 5d011d718b54f503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordix.LevelsTableViewModel.parseUser(snapshot: __C.FIRDataSnapshot) -&gt; ()"
+                  moduleName = "Wordix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ihorzaliskyj/Documents/GitHub/Wordix/Wordix/ViewModel/LevelsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "401">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
